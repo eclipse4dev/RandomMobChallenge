@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "random_mob_challenge",
+  "version": "${version}",
+  "name": "Random Mob Challenge",
+  "description": "A Small Challenge where a Entity spawns every {interval} ticks.",
+  "authors": ["Vee"],
+  "contact": {},
+  "license": "Vee-Distribution-License",
+  "icon": "assets/random_mob_challenge/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.vee.random_mob_challenge.client.Random_mob_challengeClient"
+    ],
+    "main": [
+      "org.vee.random_mob_challenge.Random_mob_challenge"
+    ]
+  },
+  "mixins": [
+    "random_mob_challenge.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

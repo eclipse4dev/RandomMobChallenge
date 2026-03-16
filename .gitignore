@@ -1,0 +1,12 @@
+/build/
+/out/
+/run/
+
+.idea/
+*.iml
+
+.gradle/
+.gradle-cache/
+
+local.properties
+*.log

@@ -1,0 +1,32 @@
+Copyright (c) 2026 The Software Authors
+
+Vee Distribution License (VDL)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. Patent Grant: The copyright holder hereby grants to any contributor a perpetual,
+   worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license
+   to make, use, sell, offer for sale, import, and otherwise run, modify, and
+   distribute the Software, to the extent that such patent would be infringed by
+   the Software as provided by the copyright holder.
+
+3. Copyleft: Any modified version or derivative work of the Software must also
+   be distributed under this same license. You must include the original copyright
+   notice, patent grant, and these terms with any derivative work.
+
+4. Attribution: Any use of the Software, including modifications, forks, or
+   redistribution of parts or whole, must give credit to the original author(s), including a link to the original source if possible.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
